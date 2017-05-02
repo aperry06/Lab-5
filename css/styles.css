@@ -9,10 +9,15 @@
 	
 }
 
+h1 {
+	padding-left: 30px;
+}
+
 h2 {
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight:200;
 	margin-top:-2px;
+	padding-left: 30px;
 }
 
 tr:nth-child(even) {
@@ -43,6 +48,7 @@ table {
 
 .image {
 	border: 0px solid #A9A9A9;
+	vertical-align:bottom; /*center images*/
 	
 }
 
