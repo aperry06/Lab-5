@@ -74,7 +74,14 @@ a:link {
 }
 
 a:visited {
-	color:aquamarine;
+	color: white;
 }
 
+a:hover {
+	color: gray;
+}
+
+a:active {
+	color:skyblue;
+}
 
