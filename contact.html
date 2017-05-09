@@ -1,12 +1,15 @@
 <!doctype html>
 <html>
 <head>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
 <link href="css/styles.css" rel="stylesheet" type="text/css">
 <meta charset="UTF-8">
 <title>Contact Page</title>
 </head>
 
 <body>
+<!--make sure to delete hashtags that were in front of .html's so that links work-->
 <nav> 
 	<ul>
 		<li><a href="index.html">Home</a></li>
@@ -36,7 +39,7 @@
 <p>
 <label>City:
 	<input type="text" name="City" size="20"/></label></p>
-
+<!--created dropdown menu for state abbreviations-->
 <p>
 <label>State:
 <select>
@@ -112,6 +115,8 @@
 </p>
 	</fieldset>
 <fieldset>
+
+<!--insert more than 5 colors for people to choose from-->
 <legend>Hydro Flask colors</legend>
 	<p>Please select up to 5 colors:</p>
 	<p><label><input type="checkbox" name="color" value="Purple">Purple</label>
@@ -143,7 +148,7 @@
 		<input type="number" name="number" size="40"/></label>
 	</p>
 	<p>Expiration Date:
-		<label>Month
+		<label>Month <!--dropdown menus for month and year to make sure there are no typos-->
 <select>
 	<option>01</option>
 	<option>02</option>
@@ -175,11 +180,14 @@
 	</select></label>
 	<label>CVV
 	<input type="text" name="cvv" size="5"></label>
-	</p>
-	<input type="image" name="mastercard" src="images/mastercard.gif">
-	<input type="image" name="visa" src="images/visa.gif">
-	<input type="image" name="ae" src="images/ae.gif">
+	</p> <!--images can be sized and placed anywhere you think they look best-->
+	<img src="images/ae.gif">
+	<img src="images/mastercard.gif">
+	<img src="images/visa.gif">
+	
 	</fieldset>
+	
+	<input type="submit" value="Submit" id="submit"/>
 
 </form>
 

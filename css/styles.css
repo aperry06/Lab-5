@@ -96,3 +96,36 @@ a:active {
 
 /*beginning of contact page styling*/
 
+
+form img {
+	width: 50px;
+	height: auto;
+	
+}
+
+fieldset {
+	background-color:#EBEBD0; /*match to color on nav bar in order to maintain consistency throughout the two pages*/
+	margin:50px;
+}
+ /*downloaded open sans from google font and placed in css*/
+/*created mutliple font family sets because font did not appear in all places I wanted it to*/
+
+p {
+	font-family: "Open Sans", sans-serif;
+}
+
+
+label {
+	font-family: "Open Sans", sans-serif;
+}
+
+
+legend {
+	font-family: "Open Sans", sans-serif;
+}
+
+#submit {
+	width:200px;
+	
+	font-size:30px;
+}
