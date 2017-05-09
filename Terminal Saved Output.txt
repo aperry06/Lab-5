@@ -1,0 +1,1120 @@
+Last login: Tue May  2 12:12:43 on console
+grc-sudan:~ aperry06$ cd desktop/338_03_L5_perry
+grc-sudan:338_03_L5_perry aperry06$ git init
+Initialized empty Git repository in /Users/aperry06/Desktop/338_03_L5_perry/.git/
+grc-sudan:338_03_L5_perry aperry06$ git add -A
+grc-sudan:338_03_L5_perry aperry06$ git commit -m "add files"
+[master (root-commit) 034ddbe] add files
+ 4 files changed, 15 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 css/styles.css
+ create mode 100644 images/logo.gif
+ create mode 100644 index.html
+grc-sudan:338_03_L5_perry aperry06$ 
+grc-sudan:338_03_L5_perry aperry06$ git commit -am "updated table"
+[master 0d057be] updated table
+ 1 file changed, 55 insertions(+), 1 deletion(-)
+grc-sudan:338_03_L5_perry aperry06$ git commit -am "added photos"
+[master 1f3f98b] added photos
+ 1 file changed, 8 insertions(+)
+grc-sudan:338_03_L5_perry aperry06$ git commit -am "formatted table"
+[master b100e42] formatted table
+ 2 files changed, 62 insertions(+), 5 deletions(-)
+grc-sudan:338_03_L5_perry aperry06$ git commit -am "added nav bar"
+[master 7e21cb2] added nav bar
+ 2 files changed, 44 insertions(+), 4 deletions(-)
+grc-sudan:338_03_L5_perry aperry06$ git commit -am "stylized nav bar"
+[master 8aca0f9] stylized nav bar
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+grc-sudan:338_03_L5_perry aperry06$ git commit -am "added css comments"
+[master 3859509] added css comments
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+grc-sudan:338_03_L5_perry aperry06$ git commit -am "finishing touches"
+[master 22d6bb8] finishing touches
+ 1 file changed, 6 insertions(+)
+grc-sudan:338_03_L5_perry aperry06$ git log
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+    updated table
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+    updated table
+
+:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+    updated table
+
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+    updated table
+
+commit 034ddbed0dd8ce338a2557bc20a8c8477e57d970
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+    updated table
+
+commit 034ddbed0dd8ce338a2557bc20a8c8477e57d970
+Author: Amanda Perry <aperry06@calpoly.edu>
+:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+    updated table
+
+commit 034ddbed0dd8ce338a2557bc20a8c8477e57d970
+Author: Amanda Perry <aperry06@calpoly.edu>
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+    updated table
+
+commit 034ddbed0dd8ce338a2557bc20a8c8477e57d970
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 12:53:26 2017 -0700
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+    updated table
+
+commit 034ddbed0dd8ce338a2557bc20a8c8477e57d970
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 12:53:26 2017 -0700
+
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+    updated table
+
+commit 034ddbed0dd8ce338a2557bc20a8c8477e57d970
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 12:53:26 2017 -0700
+
+    add files
+:...skipping...
+commit 22d6bb86cf6f1a8b81a2a0ece44a2ac16acaf509
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:18:00 2017 -0700
+
+    finishing touches
+
+commit 38595091328393639a16b9ba7ca429c7a51d4eb3
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:11:30 2017 -0700
+
+    added css comments
+
+commit 8aca0f94149109e3ddba8d73161d996ed5ad1005
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:10:00 2017 -0700
+
+    stylized nav bar
+
+commit 7e21cb2fbc7c53267d7bb77a37a0d04491e35d51
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 14:08:19 2017 -0700
+
+    added nav bar
+
+commit b100e42976ff69170e2a4f56fae036514bb28f50
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:52:46 2017 -0700
+
+    formatted table
+
+commit 1f3f98b6b6000a43db992ec505469502251aa928
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:20:30 2017 -0700
+
+    added photos
+
+commit 0d057beac4b3ee7f42b20899e7d381c83c95bbfe
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 13:09:39 2017 -0700
+
+    updated table
+
+commit 034ddbed0dd8ce338a2557bc20a8c8477e57d970
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 2 12:53:26 2017 -0700
+
+    add files
+~
+grc-sudan:338_03_L5_perry aperry06$ git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+grc-sudan:338_03_L5_perry aperry06$ git remote add origin https://github.com/aperry06/Lab-5.git
+grc-sudan:338_03_L5_perry aperry06$ git push -u origin master
+Counting objects: 36, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (28/28), done.
+Writing objects: 100% (36/36), 5.98 KiB | 0 bytes/s, done.
+Total 36 (delta 10), reused 0 (delta 0)
+remote: Resolving deltas: 100% (10/10), done.
+To https://github.com/aperry06/Lab-5.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+grc-sudan:338_03_L5_perry aperry06$ git push
+Everything up-to-date
+grc-sudan:338_03_L5_perry aperry06$ 
